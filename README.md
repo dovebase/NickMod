@@ -1,2 +1,2 @@
 # NickMod
-A Plugin Created For @StrikeLand
+A Plugin Created For StrikeLand Network
